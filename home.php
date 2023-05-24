@@ -12,8 +12,8 @@ include_once "db_conn.php";
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>EJ | HOME</title>
 
-  <link rel="stylesheet" href="fontawasome/css/all.min.css">
-  <link rel="stylesheet" href="fontawasome/css/fontawesome.min.css">
+  <link rel="stylesheet" href="fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="fontawesome/css/fontawesome.min.css">
 
   <style>
     body{
@@ -192,7 +192,7 @@ if(mysqli_num_rows($result) > 0)
 </div>
 </section>
 <center><small>ejtechpro &copy; <?= date('Y M D'); ?></small></center>
-<script src="fontawasome/js/all.min.js"></script>
-<script src="fontawasome/js/fontawesome.min.js"></script>
+<script src="fontawesome/js/all.min.js"></script>
+<script src="fontawesome/js/fontawesome.min.js"></script>
 </body>
 </html>
