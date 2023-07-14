@@ -4,7 +4,7 @@ Date 2023 MAY TUE
 
 Languages: ~ PHP & MYSQL DATABASE 
 
-This is just a simple like/dislike system with only two pages:- login_page and home_page, where users can login and post content,like/dislike posts.
+This is just a simple like/dislike system with only 2 pages:- login_page and home_page, where users can login and post content,like/dislike posts.
 
 Use the credentials below to login as per user:
  >- ej
